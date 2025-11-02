@@ -1,2 +1,1 @@
-# Odin_recipes
-Odin lesson about html and git
+This is a trial for the use of HTML and the use of git and github such as commits, push, clone...etc
